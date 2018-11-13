@@ -1,5 +1,5 @@
 # maven-project
-Source code for Munga Jenkins course.
+Source code for Munga Lal Shaw Jenkins course.
 
 Check out our Latest DevOps PDF book.
 
